@@ -85,7 +85,4 @@ def main(argv): #Call for two comm-line args, 1st file(path), 2nd file(path)
     return
 
 
-#ESlocal = "C:/Users/SMoked/AppData/Roaming/endless-sky/saves/Mr. Fraggle.txt"
-#ESsynced = "C:/Users/SMoked/Google Drive/Mr. Fraggle.txt"
-
 main(sys.argv)
