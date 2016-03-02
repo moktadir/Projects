@@ -84,5 +84,4 @@ def main(argv): #Call for two comm-line args, 1st file(path), 2nd file(path)
     updater(local, synced)
     return
 
-
 main(sys.argv)
